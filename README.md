@@ -1,5 +1,7 @@
 # College Management App
 
+Deployed on Heroku : https://college-mngmt-p7.herokuapp.com/
+
 ### DESCRIPTION
 College Management app is a full stack MERN application with React-redux client side and nodejs in backend, MongoDB is used for database , In this app a teacher can register and login and add new task where student can have access to its assignment given by user.
 
